@@ -1,1 +1,2 @@
-qwertyui
+print ("was")
+print ("now")
